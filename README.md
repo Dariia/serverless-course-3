@@ -13,5 +13,9 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app. The build ste
 
 
 Smth went wrong :( 
+1. cdk synth
+2. cdk bootstrap aws://ACCOUNT-NUMBER/REGION
+3. cdk deploy and appears error
+
 ![image](https://user-images.githubusercontent.com/2552396/140837928-07586c49-e480-4342-bf11-0413bc156225.png)
 
