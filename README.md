@@ -12,5 +12,6 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app. The build ste
  * `cdk synth`            emits the synthesized CloudFormation template
 
 
+Smth went wrong :( 
 ![image](https://user-images.githubusercontent.com/2552396/140837928-07586c49-e480-4342-bf11-0413bc156225.png)
 
