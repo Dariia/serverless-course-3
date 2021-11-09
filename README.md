@@ -16,6 +16,8 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app. The build ste
 Useful for me docs:
 - https://docs.aws.amazon.com/cdk/latest/guide/serverless_example.html
 - https://github.com/aws/aws-cdk/issues/3091
+- https://cdkworkshop.com/20-typescript.html
+- https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html
 
 
 
