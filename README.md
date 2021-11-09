@@ -17,8 +17,5 @@ Useful for me docs:
 - https://docs.aws.amazon.com/cdk/latest/guide/serverless_example.html
 - https://github.com/aws/aws-cdk/issues/3091
 
-Result: 
-![image](https://user-images.githubusercontent.com/2552396/140912180-417cfeb5-91c8-46f0-bb9e-dd69709477bf.png)
-
 
 
