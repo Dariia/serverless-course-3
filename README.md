@@ -12,6 +12,7 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app. The build ste
  * `cdk synth`            emits the synthesized CloudFormation template
 
 
+Made by doc: https://docs.aws.amazon.com/cdk/latest/guide/serverless_example.html
 Smth went wrong :( 
 1. cdk synth
 2. cdk bootstrap aws://ACCOUNT-NUMBER/REGION
