@@ -13,12 +13,12 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app. The build ste
 
 
 
-### Smth went wrong :( 
-Made by doc: https://docs.aws.amazon.com/cdk/latest/guide/serverless_example.html
-Steps: 
-1. cdk synth
-2. cdk bootstrap aws://ACCOUNT-NUMBER/REGION
-3. cdk deploy and appears error
+Useful for me docs:
+- https://docs.aws.amazon.com/cdk/latest/guide/serverless_example.html
+- https://github.com/aws/aws-cdk/issues/3091
 
-![image](https://user-images.githubusercontent.com/2552396/140837928-07586c49-e480-4342-bf11-0413bc156225.png)
+Result: 
+![image](https://user-images.githubusercontent.com/2552396/140912180-417cfeb5-91c8-46f0-bb9e-dd69709477bf.png)
+
+
 
